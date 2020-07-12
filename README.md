@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hi](https://i.imgur.com/oEagajq.png)
+![hi](https://i.imgur.com/vZLkakn.png)
 
 <!--
 **alitokur/alitokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
