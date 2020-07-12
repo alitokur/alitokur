@@ -1,4 +1,5 @@
-### Hi there 👋
+## Ali Tokur 
+### Computer Vision Engineer
 ![hi](https://i.imgur.com/vZLkakn.png)
 
 <!--
