@@ -1,7 +1,6 @@
 ## Ali Tokur 
 ### Computer Vision Engineer
                        
-![hi](https://i.imgur.com/vZLkakn.png)
 
 ![alitokur's github stats](https://github-readme-stats.vercel.app/api?username=alitokur&show_icons=true&theme=radical)
 
