@@ -1,5 +1,5 @@
 ## Ali Tokur 
-### Computer Science & Vision
+### Computer Science & Math
 
 <!--
 **alitokur/alitokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
