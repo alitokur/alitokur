@@ -1,4 +1,4 @@
-### Hi there 👋
+one day, i realized all the dumb, selfish things people do...
 
 <!--
 **alitokur/alitokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
