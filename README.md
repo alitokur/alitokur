@@ -1,4 +1,5 @@
-one day, i realized all the dumb, selfish things people do...
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=19FF1E&width=435&lines=Someone+must+shout+that+we%E2%80%99ll+build+the+pyramids;+It+doesn%E2%80%99t+matter+if+we+don%E2%80%99t!" alt="Typing SVG" /></a>
 
 <!--
 **alitokur/alitokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
