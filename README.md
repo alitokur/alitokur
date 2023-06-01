@@ -1,17 +1,35 @@
+# Hi there! 🦊 I'm alitokur
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=19FF1E&width=435&lines=Someone+must+shout+that+we%E2%80%99ll+build+the+pyramids;+It+doesn%E2%80%99t+matter+if+we+don%E2%80%99t!" alt="Typing SVG" /></a>
+I'm a passionate C++ developer specializing in high-frequency trading (HFT) in algorithmic trading systems. I thrive on building efficient, low-latency software solutions that push the boundaries of speed and performance in the financial markets.
 
-<!--
-**alitokur/alitokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐈 Technologies and Tools
 
-Here are some ideas to get you started:
+- Programming Languages: C++, Rust, Python
+- Frameworks/Libraries: Boost, STL, Google Test
+- Trading Platforms: FIX Protocol
+- Version Control: Git, GitHub
+- Build Tools: CMake, Ninja, Bazel
+- IDEs/Editors: NVIM
+- Operating Systems: Rhel | Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🦩 Interests
+
+I'm constantly exploring new technologies and striving to improve my skills. Here are some of my current areas of interest:
+
+- High-frequency Trading Algorithms and Strategies
+- Low-latency System Design and Optimization
+- Distributed Computing 
+- Multithreading and Concurrency
+- Memory Management
+
+
+## :chipmunk: How to Reach Me
+
+I'm always open to collaboration, interesting projects, and discussions about the financial markets. You can connect with me through the following channels:
+
+- Email: [alitokurr@gmail.com](mailto:alitokur@gmail.com)
+
+Feel free to reach out if you have any questions, ideas, or if you just want to say hello! I'm excited to connect with like-minded professionals in the industry.
+
+This is the way! 
