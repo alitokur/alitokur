@@ -2,11 +2,10 @@
 
 ## 🦩 Interests
 
-- High-frequency Trading Algorithms and Strategies
-- Low-latency System Design and Optimization
+- Memory Management
 - Distributed Computing 
 - Multithreading and Concurrency
-- Memory Management
+
 
 ## :chipmunk: How to Reach Me
 
