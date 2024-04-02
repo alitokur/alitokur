@@ -1,16 +1,7 @@
-# Hi there! 🦊 I'm alitokur
-
-## 🦩 Interests
-
-- Memory Management
-- Distributed Computing 
-- Multithreading and Concurrency
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; this is alitokur, lifts heavy stuff and has a smol girlfriend.
+        </samp>
+</h3>
 
 
-## :chipmunk: How to Reach Me
-
-
-- Email: [alitokurr@gmail.com](mailto:alitokur@gmail.com)
-
-
-This is the way! 
